@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../crew-interface-service-add-tc/it-fa/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../crew-interface-service-add-tc/it-fa/src/test/java/com/swacorp/crew/crewinterfaceservice/CrewInterfaceServiceFaAmqConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../crew-interface-service-add-tc/it-fa/src/test/java/com/swacorp/crew/crewinterfaceservice/CrewInterfaceServiceFaAppConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../crew-interface-service-add-tc/it-fa/src/test/java/com/swacorp/crew/crewinterfaceservice/CrewInterfaceServiceFaWebDriver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../crew-interface-service-add-tc/it-fa/src/test/resources/crew-interface-service-fa-test.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../crew-interface-service-add-tc/it-fa/src/test/resources/xml-injection.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../crew-legality-service-7420_TMP/settings.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../crew-legality-service-8473/Dockerfile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../crew-legality-service-8473/it-plt/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../crew-legality-service-8473/it-plt/src/test/resources/database.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../crew-legality-service-8473/settings.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../masters/crew-legality-service-Cloud-master/Dockerfile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../masters/crew-legality-service-Cloud-master/it-fa/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../masters/crew-legality-service-Cloud-master/it-fa/src/test/resources/test-data.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../masters/crew-legality-service-Cloud-master/it-plt/container-start.sh">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../masters/crew-legality-service-Cloud-master/service/src/main/java/com/swacorp/crewlegalityservice/businessprocess/CrewLegalityItemProcessorImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../masters/crew-legality-service-Cloud-master/service/src/main/java/com/swacorp/css/jms/handlers/osds/CrewLegalityCheckerHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../masters/crew-legality-service-Cloud-master/service/src/main/java/com/swacorp/css/jms/handlers/osds/FlightEventMessageHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../masters/crew-legality-service-Cloud-master/settings.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/swacorp/AppTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.swacorp.crew/css-business-model/2.0.3-131.TC/2af7dbc84ac80f1b1ee812e95f850a9dd98d735/css-business-model-2.0.3-131.TC-sources.jar!/com/swacorp/css/business/sched/CrewMemberSchedBusiness.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.swacorp.crew/css-data-model/2.0.3-131.TC/990b2ca5771b0d9a89c4ba51e2c6e9b9a09b5dee/css-data-model-2.0.3-131.TC-sources.jar!/com/swacorp/css/dao/DBAccessCrewMemberDAO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.swacorp.crew/css-data-model/2.0.3-131.TC/990b2ca5771b0d9a89c4ba51e2c6e9b9a09b5dee/css-data-model-2.0.3-131.TC-sources.jar!/com/swacorp/css/dao/dbutility/CrewMemberUtility.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.swacorp.crew/css-data-model/2.0.3-131.TC/990b2ca5771b0d9a89c4ba51e2c6e9b9a09b5dee/css-data-model-2.0.3-131.TC-sources.jar!/com/swacorp/css/dao/impl/DBAccessCrewMemberImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/CBPStandaloneTesting/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/CRS/crs-cargo-mountebank/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/CRS/crs-cargo-mountebank/src/test/java/com/swacorp/crew/crewresservice/CrewResServiceAppConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/CRS/crs-cargo-mountebank/src/test/resources/features/crewresservices/CrewResServiceDeadheadbooking.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/CRS/it/src/test/java/com/swacorp/crew/crewresservice/CrewResServiceAppConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/CRS/it/src/test/resources/features/crewresservices/CrewResServiceDeadheadbooking.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/CRS/project/crew-res-service/it/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/CRS/project/crew-res-service/it/src/test/java/com/swacorp/crew/crewresservice/CrewResServiceAppConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/CRS/project/crew-res-service/it/src/test/resources/features.crewresservices/CrewResServiceDeadheadbooking.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/CRS/project/crew-res-service/it/src/test/resources/filesets/Imposters/imposterCDHS.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
