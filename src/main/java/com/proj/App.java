@@ -1,4 +1,4 @@
-package com.swacorp;
+package com.proj;
 
 /**
  * Hello world!
